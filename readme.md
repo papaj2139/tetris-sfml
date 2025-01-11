@@ -27,7 +27,7 @@ and I can say it turned out pretty well.
    `./tetris`
 
 
-#TODO 
+# TODO 
 -music,sounds
 -levels
 -change font
