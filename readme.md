@@ -25,3 +25,9 @@ and I can say it turned out pretty well.
 2. compile and run:  
    `g++ -o tetris main.cpp -lsfml-graphics -lsfml-window -lsfml-system`  
    `./tetris`
+
+
+#TODO 
+-music,sounds
+-levels
+-change font
