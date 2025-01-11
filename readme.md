@@ -28,6 +28,6 @@ and I can say it turned out pretty well.
 
 
 # TODO 
--music,sounds
--levels
--change font
+- music,sounds
+- levels
+- change font
