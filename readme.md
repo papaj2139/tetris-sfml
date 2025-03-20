@@ -12,7 +12,7 @@ and I can say it turned out pretty well.
 3. make sure sfml is linked
 4. build and run
 
-### linux:
+### debian based distro's:
 1. install sfml:  
    `sudo apt-get install libsfml-dev`
 2. compile and run  
